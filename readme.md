@@ -2,6 +2,10 @@
 
 A self-learning retrieval system that helps AI coding assistants get smarter over time by remembering what solutions actually work.
 
+
+<img width="1257" height="548" alt="image" src="https://github.com/user-attachments/assets/53e733c9-2eec-4f09-a309-e416cd9f7130" />
+
+
 ## What This Does
 
 Instead of just searching for similar-looking code snippets, this system learns from real coding successes and failures. When you ask "how do I fix this Python error?", it doesn't just find text that looks similar—it finds solutions that actually worked for similar problems in the past, along with their success rates.
