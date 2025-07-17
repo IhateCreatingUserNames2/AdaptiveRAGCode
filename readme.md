@@ -199,12 +199,6 @@ If you find this useful or have ideas for improvements:
 
 This is a research prototype that we hope sparks innovation in adaptive AI tools for developers.
 
-## Cost & Performance
-
-- **Setup cost**: ~$2 in OpenAI embedding API calls (one-time)
-- **Runtime cost**: Minimal (mostly local processing)
-- **Memory usage**: ~2-4GB for full dataset
-- **Query speed**: <100ms for most lookups
 
 ---
 
