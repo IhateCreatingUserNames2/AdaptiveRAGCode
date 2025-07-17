@@ -199,6 +199,7 @@ If you find this useful or have ideas for improvements:
 
 This is a research prototype that we hope sparks innovation in adaptive AI tools for developers.
 
+This solution is based on AdaptiveRAG https://github.com/IhateCreatingUserNames2/AdaptiveRAG
 
 ---
 
