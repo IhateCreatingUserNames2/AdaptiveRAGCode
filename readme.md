@@ -67,8 +67,8 @@ pip install flask flask-cors sqlite3 chromadb sentence-transformers datasets pan
 python generatorCheckPoint.py
 ```
 
-### Performance comparison for the Initial Knowledge Loading Based on Microfost NextCoder
-- GTE-large: ~120 hours (384 dimensions, 335M parameters)
+### Performance comparison for the Initial Knowledge Loading Based on Microfost NextCoder - 
+- GTE-large: ~120 hours (384 dimensions, 335M parameters) ⭐ Best
 - all-MiniLM-L6-v2: ~2-3 hours (384 dimensions, 22M parameters) ⭐ RECOMMENDED
 - all-MiniLM-L12-v2: ~4-5 hours (384 dimensions, 33M parameters)
 - TinyBERT: ~1-2 hours (312 dimensions, 14M parameters) ⭐ FASTEST 
