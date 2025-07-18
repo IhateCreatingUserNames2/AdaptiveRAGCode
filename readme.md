@@ -119,6 +119,11 @@ requests.post('http://localhost:8002/api/feedback', json={
 
 ## Integration Examples
 
+
+Claude Desktop Example Usage
+
+<img width="772" height="814" alt="image" src="https://github.com/user-attachments/assets/eaa44b7f-f139-4931-9dc7-7aafb958dd96" />
+
 ### With Claude API
 ```python
 import anthropic
